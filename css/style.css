@@ -1,0 +1,11 @@
+.slider{
+    width: 100%;
+    height: 600px;
+}
+li {
+    font-size: 25px;
+    padding: 0% 10px;
+}
+ul{
+    padding-right: 40px;
+}
